@@ -1,4 +1,4 @@
-# dashvis [index]
+# dashvis
 
 Visualize simple vtk file object with grid on/off switch
 
