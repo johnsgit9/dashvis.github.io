@@ -2,7 +2,7 @@
 
 Visualize simple vtk file object with grid on/off switch
 
-Documentation quickstart given [here]{https://docs.github.com/en/pages/quickstart}
+Documentation quickstart given https://docs.github.com/en/pages/quickstart
 
 ## Installation of environment
 
