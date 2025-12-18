@@ -16,7 +16,7 @@ source venv/bin/activate
 
 ## details
 
-Find details on how the code [here]{./code_details}
+Find details on how the code :link: code_details.md
 
 ## Running
 

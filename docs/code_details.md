@@ -1,5 +1,11 @@
 # dashvis
 
+```{admonition} Download sources
+:class: download
+
+* {Download}`Python script<./axisymmetric_elasticity.py>`
+```
+
 Import relevant libraries
 
 ```python
