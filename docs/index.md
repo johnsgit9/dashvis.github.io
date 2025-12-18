@@ -1,4 +1,4 @@
-# dashvis
+# Description
 
 Visualize simple vtk file object with grid on/off switch
 
@@ -16,7 +16,7 @@ source venv/bin/activate
 
 ## details
 
-Find details on how the code [here]{/code_details}
+Find details on how the code [here]{./code_details}
 
 ## Running
 
