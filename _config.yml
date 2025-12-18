@@ -1,3 +1,3 @@
-theme: dash-vtk-example
+theme: jekyll-theme-minimal
 title: Dashvis
 description: Visualize simple vtk file object with grid on/off switch
