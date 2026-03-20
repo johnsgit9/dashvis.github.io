@@ -4,7 +4,6 @@ Posted by marcanuy
 Retrieved 2026-03-20, License - CC BY-SA 4.0
 -->
 
-An image1:
 ![Screenshot](/assets/Screenshot.jpeg)
 
 # Description
