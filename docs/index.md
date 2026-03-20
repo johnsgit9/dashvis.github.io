@@ -8,14 +8,11 @@ Retrieved 2026-03-20, License - CC BY-SA 4.0
 
 # Description
 
-Visualize simple vtk file object with grid on/off switch
-
-Documentation quickstart given [here](https://docs.github.com/en/pages/quickstart)
+Visualize simple vtk file object with grid on/off switch. Demonstrates very simple use of Dash vtk.
 
 ## Installation of environment
 
 To install the necessary packages using pip, first add an environment:
-
 
 ```
 python3 -m venv venv
@@ -39,4 +36,4 @@ then execute
 python structured_grid.py
 ```
 
-
+GitHub pages documentation quickstart given [here](https://docs.github.com/en/pages/quickstart).

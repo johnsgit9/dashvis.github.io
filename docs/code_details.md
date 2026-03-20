@@ -1,11 +1,5 @@
 # dashvis
 
-```{admonition} Download sources
-:class: download
-
-* {Download}`Python script<./axisymmetric_elasticity.py>`
-```
-
 Import relevant libraries
 
 ```python
@@ -23,6 +17,8 @@ from pyvista import examples
 from vtk import vtkStructuredPointsReader
 from dash_vtk.utils import to_mesh_state, preset_as_options
 ```
+
+etc.
 
 [back](./)
 
