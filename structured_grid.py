@@ -61,7 +61,7 @@ app.layout = html.Div(
             labelPosition="top",
             ),
         html.Div(id='my-toggle-switch-output',
-                 style={"height": "100%", "width": "80%"})
+                 style={"height": "100%", "width": "100%"})
         ],
 )
 
